@@ -18,7 +18,7 @@ cookies = {
     "__stripe_mid": "19a75cd7-44f9-4482-8197-12d86a7a6e87d655b3"
 }
 # from 请求负载
-value = {"token": "glados.network"}
+value = {"token": "glados.one"}
 
 # wait some times
 time.sleep(random.randint(30, 300))
